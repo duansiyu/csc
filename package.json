@@ -1,0 +1,49 @@
+{
+  "name": "tenant_cscs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "antd-mobile": "^2.1.8",
+    "babel-eslint": "^8.2.2",
+    "dva-core": "^1.1.0",
+    "native-echarts": "^0.4.0",
+    "prop-types": "^15.6.1",
+    "qs": "^6.5.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.2",
+    "react-native": "0.55.2",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-keyboard-aware-scroll-view": "^0.5.0",
+    "react-native-module": "0.0.1",
+    "react-native-qrcode": "^0.2.6",
+    "react-native-root-toast": "^3.0.1",
+    "react-native-secharts": "^1.2.1",
+    "react-native-swiper": "^1.5.13",
+    "react-native-table-component": "^1.1.8",
+    "react-navigation": "^1.5.8",
+    "react-navigation-redux-helpers": "^1.0.3",
+    "react-redux": "^5.0.7",
+    "rn-wheel-picker-china-region": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-plugin-import": "^1.7.0",
+    "babel-preset-react-native": "4.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-babel": "^4.1.2",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.7.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
