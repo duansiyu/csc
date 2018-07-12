@@ -9,9 +9,9 @@
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. react-native 安装好iOS和Android环境
+2. 进入根目录 npm install 安装依赖包
+3. 安卓打开模拟器 根目录进行react-native run-android
 
 #### 使用说明
 
